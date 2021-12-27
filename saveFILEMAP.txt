@@ -1,0 +1,2 @@
+organismCount, turn
+[enumid] [x] [y][age][strength][if human, cooldownn]
